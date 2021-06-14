@@ -1,0 +1,14 @@
+INSERT INTO STUDENT VALUES (101,'Aravindhan','Computer Science','24-02-2001');
+INSERT INTO STUDENT VALUES (102,'John','Commerce','01-01-2000');
+INSERT INTO STUDENT VALUES (103,'Joe','Computer Science','25-08-2001');
+INSERT INTO STUDENT VALUES (104,'Raaj','Computer Science','15-04-2000');
+INSERT INTO STUDENT VALUES (105,'Dharun','Computer Science','18-06-2000');
+INSERT INTO STUDENT VALUES (106,'Vijay','Commerce','08-11-2001');
+INSERT INTO STUDENT VALUES (107,'Subha','Biology','02-09-2001');
+INSERT INTO STUDENT VALUES (108,'Kapila','Biology','22-02-2001');
+INSERT INTO STUDENT VALUES (109,'Jagadeshwaran','Computer Science','20-11-2000');
+INSERT INTO STUDENT VALUES (110,'Akilesh','Biology','21-02-2001');
+INSERT INTO STUDENT VALUES (111,'Sugan','Computer Science','16-07-2000');
+INSERT INTO STUDENT VALUES (112,'Kugan','Computer Science','09-06-2001');
+INSERT INTO STUDENT VALUES (113,'Abirami','Computer Science','05-05-2001');
+INSERT INTO STUDENT VALUES (114,'Angel','Computer Science','04-12-2000');
